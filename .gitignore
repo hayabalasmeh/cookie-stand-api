@@ -122,3 +122,4 @@ node_modules/
 poetry.lock
 
 db.sqlite3
+docker-compose.yml
